@@ -8,7 +8,7 @@ metadata:
     app: my-app
   annotations: {}
 spec:
-  replicas: 4
+  replicas: 5
   selector:
     matchLabels:
       app: my-app
